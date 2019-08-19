@@ -1,4 +1,4 @@
-# Add the Docker folder and the docker-compose.yalm to the root of your project
+# Add the Docker folder and the docker-compose.ymlto the root of your project
 
 ## Update database.yaml on config as follow
 
