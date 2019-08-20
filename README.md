@@ -1,4 +1,4 @@
-# Add the Docker folder and the docker-compose.yml to the root of your project
+# git clone git@github.com:Orpere/rails-docker-tester.git  root of your project
 
 ## Update database.yaml on config as follow
 
